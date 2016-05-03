@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ish_lib_assets (0.0.1)
+    ish_lib_assets (0.1.2)
       rails (~> 4.2.6)
 
 GEM
